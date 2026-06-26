@@ -19,7 +19,7 @@ the disc/ISO you own, and the installer downloads the community patches for you.
 
 ## Install
 ```bash
-git clone https://github.com/<you>/black-and-white-linux
+git clone https://github.com/87611JoeJohn/black-and-white-linux
 cd black-and-white-linux
 bash install.sh /path/to/your/BlackAndWhite.iso
 ```

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Black & White (2001) — fullscreen launcher for Linux.
 # Auto-detects your GPU setup (AMD / Intel / NVIDIA / hybrid) and does the right thing.
-# Part of: github.com/<you>/black-and-white-linux
+# Part of: github.com/87611JoeJohn/black-and-white-linux
 set -u
 export WINEPREFIX="${BW_PREFIX:-$HOME/.bw}"
 export WINEDEBUG=-all

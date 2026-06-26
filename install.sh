@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # =============================================================================
 #  Black & White (2001) — Linux installer
-#  github.com/<you>/black-and-white-linux
+#  github.com/87611JoeJohn/black-and-white-linux
 #
 #  You provide YOUR OWN game disc/ISO + serial key (the game you legally own).
 #  This script installs Wine + gamescope, sets up the bottle, applies the
