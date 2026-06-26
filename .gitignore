@@ -1,0 +1,16 @@
+# NEVER commit copyrighted game content
+*.iso
+*.ISO
+*.bin
+*.cue
+*.exe
+*.EXE
+*.bik
+*-key*.txt
+*serial*
+*Serial*
+game/
+work/
+_work/
+*.tar.gz
+*.zip
