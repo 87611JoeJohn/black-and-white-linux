@@ -29,6 +29,15 @@ launch **Black & White** from your app menu — or `~/.local/bin/black-and-white
 - `black-and-white` — fullscreen (gamescope)
 - `black-and-white-windowed` — plain windowed fallback
 
+## Expansion: Creature Isle
+Got the **Creature Isle** expansion too? Install the base game first, then:
+```bash
+bash install-creature-isle.sh /path/to/your/CreatureIsle.iso
+```
+It installs into the same bottle and gets its own launcher (`creature-isle`) that reuses
+all the same GPU/fullscreen fixes — so no second graphics fight. Creature Isle has a disc
+check; keep your ISO mounted while playing (or apply your own No-CD for the copy you own).
+
 ## Why this exists (the hard part it solves)
 Old DirectX-7 games like B&W fight modern Linux. The fixes, learned the hard way:
 
